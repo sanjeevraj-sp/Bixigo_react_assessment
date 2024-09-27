@@ -1,0 +1,79 @@
+
+.move-row-container{
+ margin-bottom: 12px;
+}
+
+.move-moving-from , .move-moving-to {
+    font-size: 14px;
+    font-weight: 498;
+}
+
+.request-hash-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.view-move-details-btn {
+    border: 2px solid #ef553b !important; 
+    color: #ef553b !important;
+    background-color: white !important;
+    border-radius: 5px !important;
+    font-size: 13px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    text-transform: none !important; 
+    padding: 5px 24px 5px 24px !important;
+  }
+  
+
+.quotes-awaiting-btn{
+    color: white !important;
+    background-color: #ef553b !important;
+    border-color: #ef553b !important;
+    border-radius: 4px !important;
+    font-size: 13px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    text-transform: none !important; 
+    padding: 5px 24px 5px 24px !important;
+}
+
+.move-disclaimer {
+    font-size: 13px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.move-edit-house-details-btn , .move-edit-inventory-btn {
+    margin-left: 25px !important;
+    color: white !important;
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+    border-radius: 4px !important;
+    font-size: 13px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    text-transform: none !important; 
+    padding: 5px 24px 5px 24px !important;
+}
+
+.move-existing-house-header {
+    color: #ef553b;
+    margin:15px 0px 10px 0px;
+    font-size: 18px;
+    font-weight: 630;
+}
+
+.category-count-badge{
+    margin-left: 18px;
+}
+
+.accordion-summary{
+    display: flex;
+    background-color: #edecec !important;
+    color: #ef553b !important;
+    font-weight: 500;
+}
+
+.item-type{
+    font-size: 13px;
+    font-weight: 790;
+}
